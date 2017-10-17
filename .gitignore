@@ -16,7 +16,6 @@
 *.rds
 *.tar.gz
 #*txt*
-*conf
 *buffer
 *model
 *pyc
